@@ -1,5 +1,5 @@
 {
-  "name": "aula2903",
+  "name": "sistema-escolar",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ChoccyMilk8641/aula2903.git"
+    "url": "git+https://github.com/kelvysmoura/sistema-escolar.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/ChoccyMilk8641/aula2903/issues"
+    "url": "https://github.com/kelvysmoura/sistema-escolar/issues"
   },
-  "homepage": "https://github.com/ChoccyMilk8641/aula2903#readme",
+  "homepage": "https://github.com/kelvysmoura/sistema-escolar#readme",
   "dependencies": {
     "express": "^5.2.1",
     "nodemon": "^3.1.14"
